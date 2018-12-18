@@ -1,0 +1,11 @@
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.FormTicTacToeMisere.resources
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.FormGameSettings.resources
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Itai\Desktop\TicTacToe\Ex05.TicTacToe\obj\Debug\TicTacToe.pdb
